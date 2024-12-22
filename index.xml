@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Arnasiuko puslapis</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Arnasiuko puslapis</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Dec 2024 12:42:38 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Naujas Postas</title>
-      <link>/posts/new/</link>
-      <pubDate>Sun, 22 Dec 2024 12:42:38 +0200</pubDate>
-      <guid>/posts/new/</guid>
-      <description>&lt;p&gt;Mano runescape 3 paskyra
-&lt;img alt=&#34;Runescape 3 paskyra, esu 200 million xp visuose skilluose :) &#34; loading=&#34;lazy&#34; src=&#34;./images/okimage.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menu</title>
-      <link>/menu/</link>
-      <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
-      <guid>/menu/</guid>
+      <link>//localhost:1313/menu/</link>
+      <pubDate>Sun, 22 Dec 2024 12:42:38 +0200</pubDate>
+      <guid>//localhost:1313/menu/</guid>
       <description>&lt;p&gt;CIA YRA MENU&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Naujas Postas</title>
+      <link>//localhost:1313/posts/new/</link>
+      <pubDate>Sun, 22 Dec 2024 12:42:38 +0200</pubDate>
+      <guid>//localhost:1313/posts/new/</guid>
+      <description>&lt;p&gt;Mano runescape 3 paskyra
+&lt;img alt=&#34;alt&#34; loading=&#34;lazy&#34; src=&#34;./images/okimage.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
